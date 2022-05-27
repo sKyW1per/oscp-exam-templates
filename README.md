@@ -22,6 +22,7 @@ $ bash generate_report.sh <input.md> <output.pdf>
 ```
 
 Naming, making and zipping the report from markdown:
+(Dont forget to change the OSID first, its hardcoded)
 ```
 $ bash zip_report.sh <input.md>
 ```
