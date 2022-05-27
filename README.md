@@ -1,5 +1,6 @@
 # oscp-exam-template
 my setup and templates for oscp labs and exam
+Obsidian is used for note-taking, all notes are made in markdown.
 
 #### Exam template
 Exam md/pdf template based on:
